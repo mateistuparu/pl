@@ -1,0 +1,2 @@
+xst -ise "F:/alexandra/facultate/sem 2/ld_lab/lab1/ex7/ex7.ise" -intstyle ise -ifn exemplu7.xst -ofn exemplu7.syr
+xst -ise "F:/alexandra/facultate/sem 2/ld_lab/lab1/ex7/ex7.ise" -intstyle ise -ifn exemplu7.xst -ofn exemplu7.syr

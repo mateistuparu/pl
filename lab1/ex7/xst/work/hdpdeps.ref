@@ -1,0 +1,8 @@
+V3 3
+FL "F:/alexandra/facultate/sem 2/ld_lab/lab1/ex7/exemplu7.vhd" 2020/03/17.18:44:42 J.36
+EN work/exemplu7 0 FL "F:/alexandra/facultate/sem 2/ld_lab/lab1/ex7/exemplu7.vhd" \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/exemplu7/Behavioral 0 \
+      FL "F:/alexandra/facultate/sem 2/ld_lab/lab1/ex7/exemplu7.vhd" \
+      EN work/exemplu7 0
